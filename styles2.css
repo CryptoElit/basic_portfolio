@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+h1 {
+    margin: 0;
+}
+.left-door {
+    background-color: red;
+    border-right: 10;
+    height: 300px;
+    margin right:20px;
+    padding-right: 50px;
+    width: 150px;
+
+}
+.right-frame {
+    background-color :blue;
+    height : 300px;
+    width : 75px;
+    margin-bottom:200px;
+    float-left
+    
+}
